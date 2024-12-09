@@ -59,8 +59,7 @@ section[epub|type~="dedication"] > *{
 #dedication b{
 	display: block;
 	font-style: italic;
-	font-variant: normal;
-	text-transform: uppercase;
+	font-size: larger;
 }
 
 #chapter-19 > blockquote:nth-of-type(3) > header > p:first-child{
